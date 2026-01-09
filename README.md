@@ -2,7 +2,7 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20creative%20space&descAlignY=51&descAlign=62)
 
-  ### I'm a passionate Software Developer from [Your Location] 🌍
+  ### I'm a passionate Software Developer from India 🌍
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2088FF&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" /></a>
 
@@ -14,11 +14,11 @@
 
   ### 🚀 About Me
 
-  - 🔭 I’m currently working on **[Project Name]**
-  - 🌱 I’m currently learning **[Technology Name]**
-  - 👯 I’m looking to collaborate on **[Open Source Projects]**
-  - 💬 Ask me about **React, Node.js, Python**
-  - ⚡ Fun fact: **[Insert Fun Fact]**
+  - 🔭 I’m currently working on **AI Modals**
+  - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+  - 👯 I’m looking to collaborate on **Open Source Projects**
+  - 💬 Ask me about **Djs, Node.js, Python**
+  - ⚡ Fun fact: **Rule #1: If it works, don't touch it.**
   
   <br cleaf="left"/>
   
