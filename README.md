@@ -39,6 +39,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoulReaperc/SoulReaperc/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SoulReaperc/SoulReaperc/output/github-contribution-grid-snake.svg">
   </picture>
+  
+  <br/>
+
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoulReaperc&theme=tokyo-night&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ff6b6b&area=true&hide_border=false&border_radius=15&height=300" alt="Activity Graph" width="100%" />
+  </div>
 
   ---
 
