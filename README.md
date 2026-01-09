@@ -10,7 +10,7 @@
   
   ---
 
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="300" align="right" alt="Coding Gif">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlmMmx2cWFmZ3AwYjdsajU1dmYyMTBxYjFsdXNvNGhmZDBiY3JuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ibTuzMSI8XW8i3VEv2/giphy.gif" width="400" align="right" alt="Coding Gif">
 
   ### 🚀 About Me
 
