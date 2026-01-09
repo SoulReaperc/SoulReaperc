@@ -4,7 +4,7 @@
 
   ### I'm a passionate Software Developer from India 🌍
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2088FF&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Crafting+Efficient+Solutions;Passionate+Open+Source+Contributor" alt="Typing SVG" /></a>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulreaperc&label=Profile%20views&color=0e75b6&style=flat" alt="soulreaperc" /> </p>
   
@@ -45,7 +45,7 @@
   ### 📈 GitHub Stats
 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/SoulReaperc/SoulReaperc/master/github-metrics.svg" alt="Metrics" width="100%" />
+    <img src="https://raw.githubusercontent.com/SoulReaperc/SoulReaperc/master/github-metrics.svg" alt="Metrics" width="450" />
   </div>
   
   <br/>
@@ -59,7 +59,7 @@
   ### 🤝 Connect with me
 
   <p align="center">
-    <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Use LinkedIn Username" /></a>
+    <a href="https://www.linkedin.com/in/darshil-kumar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Use LinkedIn Username" /></a>
   </p>
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
