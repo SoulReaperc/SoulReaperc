@@ -57,7 +57,7 @@
   <br/>
   
   <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=SoulReaperc&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Streak" />
+    <img src="https://github-streak-three.vercel.app?user=SoulReaperc&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Streak" />
   </div>
 
   ---
