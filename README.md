@@ -17,7 +17,7 @@
   - 🔭 I’m currently working on **AI Modals**
   - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
   - 👯 I’m looking to collaborate on **Open Source Projects**
-  - 💬 Ask me about **Djs, Node.js, Python, C, C++, Java**
+  - 💬 Ask me about **Djs, Node.js, Python, C, C++, Java, MongoDB**
   - ⚡ Fun fact: **Rule #1: If it works, don't touch it.**
   
   <br cleaf="left"/>
